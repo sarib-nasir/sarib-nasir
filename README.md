@@ -25,7 +25,7 @@
 - Implemented **Raast, 1Link API & bill payment modules**
 - Managed core banking transactions & support
 
-#### **🛠️ Soneri Workflow System**
+#### **🛠️ Workflow System**
 - Developed **dynamic enterprise workflow automation**
 - Created **custom approval processes & data management solutions**
 - Adaptable for multiple industries
@@ -41,7 +41,8 @@
 - 📱 **Developing a German time-telling and Quiz app** 🕒🇩🇪
 - 🎮 **Building interactive experiences in Unreal Engine**
 - 💡 **Enhancing Angular UI/UX for consumer-friendly applications**
-
+- 💡 **University Finder Web-App**
+- 💡 **Sticky Notes App**
 ---
 
 ### 📫 Connect With Me
