@@ -50,7 +50,7 @@
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarib-nasir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://komarev.com/ghpvc/?username=sarib-nasir&style=flat-square&color=blue" alt=""/>
 
 
 ---
