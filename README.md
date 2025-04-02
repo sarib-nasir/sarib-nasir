@@ -45,6 +45,19 @@
 - 💡 **Sticky Notes App**
 ---
 
+<!---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arslanaka&theme=dark&hide_border=true)](https://git.io/streak-stats)
+--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarib-nasir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+---
+
+<!---
+### :writing_hand: Blog Posts :
+--->
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github)  
