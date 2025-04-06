@@ -1,16 +1,12 @@
-### Hi there! I'm Sarib Bin Nasir 👋
+# 💫 About Me:
+Hi there! I'm Sarib Bin Nasir 👋<br>🚀 .NET & Angular Developer | AI Enthusiast | Cloud & Enterprise Solutions<br>📍 Currently pursuing a Master's in AI | 3+ years of professional experience<br><br>🔥 About Me<br>💻 Passionate full-stack developer specializing in .NET (C#) & Angular<br>🌍 Hands-on experience with AWS Lambda, API Gateway, Cognito<br>📈 Architecting scalable enterprise solutions & workflow automation<br>🤖 Exploring AI & Machine Learning alongside Unreal Engine Development<br>🎯 Focused on building intuitive & high-performance applications
 
-🚀 **.NET & Angular Developer | AI Enthusiast | Cloud & Enterprise Solutions**  
-📍 Currently pursuing a Master's in AI | 3+ years of professional experience  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarib-bin-nasir/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saribbinnasir@gmail.com) 
 
-### 🔥 About Me
-- 💻 Passionate full-stack developer specializing in **.NET (C#)** & **Angular**
-- 🌍 Hands-on experience with **AWS Lambda, API Gateway, Cognito**
-- 📈 Architecting scalable enterprise solutions & workflow automation
-- 🤖 Exploring **AI & Machine Learning** alongside **Unreal Engine Development**
-- 🎯 Focused on building intuitive & high-performance applications
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -32,50 +28,27 @@
 
 ---
 
-### 🚀 Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-
-### 💻 Backend
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![REST API](https://img.shields.io/badge/-REST_API-006400?logo=api&logoColor=white)![SOAP](https://img.shields.io/badge/-SOAP-007396?logo=soap&logoColor=white)
-### 🛢 Databases
-![SQL Server](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)![Lambda](https://img.shields.io/badge/-Lambda-orange?logo=aws-lambda&logoColor=white)![API Gateway](https://img.shields.io/badge/-API_Gateway-FF9900?logo=amazon-aws&logoColor=white)![Cognito](https://img.shields.io/badge/-Cognito-6B46C1?logo=amazon-aws&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
-### 🧠 Machine Learning & Data Science
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-### 🛠 Tools & Skills
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)![SSMS](https://img.shields.io/badge/-SSMS-CC2927?logo=microsoft-sql-server&logoColor=white)![REST Client](https://img.shields.io/badge/-REST_Client-00599C?logo=postman&logoColor=white)![MongoDB Compass](https://img.shields.io/badge/-MongoDB_Compass-4FAA41?logo=mongodb&logoColor=white)![Fullstack](https://img.shields.io/badge/-Fullstack_Development-000000?logo=code&logoColor=white)![Time Management](https://img.shields.io/badge/-Time_Management-6A0DAD?logo=clockify&logoColor=white)![Quick Learner](https://img.shields.io/badge/-Quick_Learner-FF69B4?logo=fastapi&logoColor=white)
-
----
-
 ### 🌟 What I’m Working On
-- 📱 **Developing a German time-telling and Quiz app** 🕒🇩🇪
-- 🎮 **Building interactive experiences in Unreal Engine**
+- **German Time-Telling App – A web application that retrieves the current time and displays it in the way Germans express it (e.g., "viertel nach drei" for 3:15). It features a quiz mode to test users’ understanding. This project demonstrates my skills in frontend development, UI/UX design, and logic implementation.** [![DeauthZeit](https://deutschzeit.netlify.app/)]
+
+- **Jotify – A sleek and intuitive sticky notes app designed to help you capture, organize, and manage your thoughts effortlessly. Whether you're jotting down quick ideas, setting reminders, or brainstorming, Jotify keeps everything neatly arranged in a responsive and customizable grid. With a user-friendly interface and seamless note management, you can stay productive without the clutter.** [![Jotify](https://jotifyy.netlify.app/)]
+
+- **UniSearch – A university and program search platform that helps students find academic programs based on specific criteria. Built with a SQL-driven search engine, it allows users to filter results efficiently. This project highlights my experience in database design, API integration, and user-friendly interface development.** [![Unisearch](https://unisearcho.netlify.app/Home)]
+
 - 💡 **Enhancing Angular UI/UX for consumer-friendly applications**
 - 💡 **University Finder Web-App**
 - 💡 **Sticky Notes App**
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sarib-nasir&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=sarib-nasir&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarib-nasir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arslanaka&theme=dark&hide_border=true)](https://git.io/streak-stats)
---->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarib-nasir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://komarev.com/ghpvc/?username=sarib-nasir&style=flat-square&color=blue" alt=""/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sarib-nasir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
----
-
-<!---
-### :writing_hand: Blog Posts :
---->
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sarib-nasir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 📌 **Let’s build something amazing together!** 🚀
